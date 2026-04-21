@@ -232,14 +232,6 @@ const MENU_ITEMS = [
     description: "Ceremonial grade matcha whisked with velvety steamed milk."
   },
   {
-    id: "m34",
-    name: "Garlic Bread",
-    price: 5.50,
-    category: "dishes",
-    image: "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80",
-    description: "Toasted baguette slices smothered in garlic butter and herbs."
-  },
-  {
     id: "m35",
     name: "Quinoa Salad",
     price: 10.00,
